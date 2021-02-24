@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="postgresql-42.2.19">
+    <archive path="/Users/nenriki/Downloads/postgresql-42.2.19.jar" />
+  </library>
+</eclipse-userlibraries>
+
